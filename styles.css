@@ -1,0 +1,92 @@
+.nav-item {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: 10px 10px;
+}
+
+.hero-image {
+        background-image: url("./assets/heroImage.jpg");
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+        padding: 10px 10px;
+        height: 40rem;
+}
+
+.card {
+        margin: 20px 20px;
+}
+
+.input {
+        margin: 10px 0;
+}
+
+.heading3d {
+        font-size: 40px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        text-shadow: 2px 2px #110505;
+        padding: 8px 8px;
+}
+
+.heading {
+        padding: 8px 8px;
+        font-size: 40px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+}
+
+.column {
+        text-align: center;
+}
+
+.list-item {
+        margin: 8px 4px
+}
+
+.x {
+        width: 50%;
+        margin: 10px 10px;
+}
+
+.textarea {
+        width: 50%;
+}
+
+.center {
+        text-align: center;
+}
+
+.cr {
+        display: flex;
+        flex-direction: column;
+        margin: 8px;
+        background-color: aliceblue;
+        border: 1px solid #eeeeee;
+        width: 33.3%;
+        list-style-type: none;
+        padding: 10px 10px;
+        -webkit-transition: 0.3s;
+        transition: 0.3s;
+        margin: 10px 12px;
+        box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
+}
+
+.white {
+        color: white
+}
+
+.black {
+        color: black
+}
+
+.grey {
+        color: grey
+}
+
+.info {
+        font-size: 22px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+        text-shadow: 2px 2px #110505;
+}
